@@ -20,7 +20,7 @@ public class ExampleInstrumentedTest {
     public void useAppContext() throws Exception {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
-            //sssss1
+            //sssss12234
         assertEquals("com.tianpy.test.fingerprinttest", appContext.getPackageName());
     }
 }
